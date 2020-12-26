@@ -1,0 +1,17 @@
+[Path]
+data_base_dir  = C:\Users\User\לימודים\תואר שני\פרויקט גמר\Shir\Data
+output_base_dir  = C:\Users\User\לימודים\תואר שני\פרויקט גמר\Shir\ML_Wave\output
+adcp  = ADCP_lev_Dec17Apr18.csv
+buoy_demo = haifa_cameriJan17.csv
+buoy = Buoy_Nov17_Mar18.csv
+model_deep = ww3_lev_Dec17_Apr18.csv
+model_shallow = ww3_shik_Dec17_Apr18.csv
+
+[Pref]
+adcp_pref = a
+buoy_pref = b
+phys_deep_pref = ma
+phys_shallow_pref = mb
+
+[Run Params]
+
